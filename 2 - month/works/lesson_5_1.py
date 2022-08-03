@@ -23,17 +23,17 @@
 
 
 
-import calculator
+# import calculator
 # from calculator import *
-from person import Person
-from random import randint as generate_number
-from datetime import datetime, date
+# from person import Person
+# from random import randint as generate_number
+# from datetime import datetime, date
 
 from termcolor import colored, cprint
 
-import os
-
-from decouple import config
+# import os
+#
+# from decouple import config
 
 # print(calculator.addition(12, 12))
 
@@ -52,7 +52,7 @@ from decouple import config
 # https://www.w3schools.com/python/python_datetime.asp
 # https://pypi.org/
 
-
+#
 # text = colored('Hello, World!', 'green', attrs=['bold'])
 # print(text)
 # cprint('Hello, World!', 'green', 'on_red', attrs=['bold'])
